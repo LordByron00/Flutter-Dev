@@ -1,3 +1,6 @@
 [submodule "WatchMate"]
 	path = WatchMate
 	url = https://github.com/LordByron00/WatchMate.git
+[submodule "bainabai"]
+	path = bainabai
+	url = https://github.com/LordByron00/bainabai.git
