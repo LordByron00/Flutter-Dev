@@ -4,3 +4,6 @@
 [submodule "bainabai"]
 	path = bainabai
 	url = https://github.com/LordByron00/bainabai.git
+[submodule "Fluter Activities"]
+	path = Fluter Activities
+	url = https://github.com/LordByron00/Flutter-Activities.git
