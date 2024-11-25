@@ -1,0 +1,3 @@
+[submodule "WatchMate"]
+	path = WatchMate
+	url = https://github.com/LordByron00/WatchMate.git
