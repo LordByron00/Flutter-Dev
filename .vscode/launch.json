@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "firsttutorial",
+            "cwd": "firsttutorial",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "firsttutorial (profile mode)",
+            "cwd": "firsttutorial",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "firsttutorial (release mode)",
+            "cwd": "firsttutorial",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "myfirstflutter",
+            "cwd": "myfirstflutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "myfirstflutter (profile mode)",
+            "cwd": "myfirstflutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "myfirstflutter (release mode)",
+            "cwd": "myfirstflutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
